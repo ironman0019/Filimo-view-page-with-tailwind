@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.6"
+  },
+  "dependencies": {
+    "owl.carousel": "^2.3.4",
+    "tw-elements": "^2.0.0"
+  }
+}
